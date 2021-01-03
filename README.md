@@ -1,1 +1,2 @@
-# infinite_calculator
+### 19-2 OOP_Project
+무한대 정수 계산기(+, -, \*만 구현)
